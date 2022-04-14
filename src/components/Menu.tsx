@@ -13,7 +13,6 @@ import {
 
 import { useLocation } from 'react-router-dom';
 import { heartOutline, heartSharp, mailOutline, mailSharp, moon, paperPlaneOutline, paperPlaneSharp,} from 'ionicons/icons';
-import './Menu.css';
 
 interface AppPage {
   url: string;
